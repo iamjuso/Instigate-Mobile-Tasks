@@ -11,5 +11,5 @@ If you just run the script without giving arguments, it will output the flags us
 
 3. biggestDenominator.sh program takes two numbers as inputs and outputs their biggest denominator.
 
-4. largestnum.sh program takes as many input numbers as the user wishes, and outputs the greatest number of all.
+4. largestNum.sh program takes as many input numbers as the user wishes, and outputs the greatest number of all.
 Please write spaces between input numbers. 
