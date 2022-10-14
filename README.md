@@ -9,7 +9,7 @@ After running the script write n number as an input and see the output in termin
 
 2. hwOsInfo.sh program outputs specific data about computer's HW info and OS info.
 If you just run the script without giving arguments, it will output the flags usage guide (these allow you see specific parameters).
-./hwOsInfo.sh  or  ./hwOsInfo.sh <flag>
+./hwOsInfo.sh  or  ./hwOsInfo.sh -flag
   
 3. biggestDenominator.sh program takes two numbers as inputs and outputs their biggest denominator.
 ./biggestDenominator.sh
